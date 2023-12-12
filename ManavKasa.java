@@ -33,6 +33,6 @@ public class ManavKasa {
         System.out.println("Ödemeniz Gereken Tutar : " + toplam);
 
 
-
+        scanner.close();
     }
 }
